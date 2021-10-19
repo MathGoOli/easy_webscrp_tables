@@ -42,5 +42,5 @@ def request_data(site, table_class, file_name, sheet_name):
 
 
 if __name__ == '__main__':
-    request_data('http://www.semicore.com/reference/density-reference', 'reference', 'my_sheet_example',
+    request_data('http://www.semicore.com/reference/density-reference', 'reference', 'my_fille_example',
                  'my_sheet_name')
